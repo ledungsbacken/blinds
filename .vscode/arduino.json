@@ -1,5 +1,5 @@
 {
-    "sketch": "blinds_dirty.ino",
+    "sketch": "blinds.ino",
     "board": "arduino:avr:uno",
     "programmer": "arduino:arduinoisp",
     "port": "COM4"
